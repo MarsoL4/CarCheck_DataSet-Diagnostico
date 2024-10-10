@@ -1,0 +1,101 @@
+ID,Descrição do Problema,Categoria,Possível Causa,Gravidade,Custo Estimado de Reparo (R$),Tempo Estimado de Reparo (horas),Região do Veículo
+1,O carro está soltando fumaça e há um barulho incomum no sistema de escape.,Exaustão,Válvula de escape danificada,Baixo,604.31,8.4,Inferior
+2,As luzes do carro estão piscando e há dificuldade para ligar o veículo.,Elétrica,Fusível queimado,Médio,869.88,10.1,Lateral Esquerda
+3,O sistema de exaustão está fazendo um barulho alto e há um cheiro estranho.,Exaustão,Fumaça excessiva,Médio,4674.56,10.1,Lateral Esquerda
+4,O sistema de arrefecimento não está funcionando e há um cheiro de líquido quente.,Sistema de Arrefecimento,Nível baixo de líquido de arrefecimento,Alto,2292.63,7.4,Frontal
+5,A suspensão parece estar mais dura do que o normal e o carro está desconfortável.,Suspensão,Mola quebrada,Médio,4114.01,1.8,Lateral Esquerda
+6,Os freios estão fazendo um barulho alto e não estão respondendo bem.,Freios,Mangueira do freio rachada,Alto,3999.44,7.3,Lateral Direita
+7,Há um som de batida quando você dirige em estrada irregular.,Suspensão,Mola quebrada,Alto,4499.71,10.9,Traseira
+8,Os freios estão vibrando e não estão funcionando corretamente.,Freios,Problema no cilindro mestre,Médio,2276.96,10.6,Frontal
+9,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Alternador com defeito,Baixo,2768.66,2.2,Lateral Direita
+10,O motor está fazendo um barulho estranho e não parece estar funcionando bem.,Motor,Desgaste de anéis,Baixo,1357.2,4.9,Inferior
+11,Há um som de batida quando você dirige em estrada irregular.,Suspensão,Mola quebrada,Médio,4050.77,10.9,Lateral Esquerda
+12,O carro está esquentando demais e parece estar perdendo potência.,Motor,Falha na injeção eletrônica,Alto,790.62,10.5,Lateral Direita
+13,Há um cheiro de queimado quando você pisa no freio.,Freios,Mangueira do freio rachada,Médio,712.01,11.1,Lateral Direita
+14,Há um cheiro de queimado quando você pisa no freio.,Freios,Problema no cilindro mestre,Alto,4306.03,6.7,Inferior
+15,Há um barulho de vibração vindo dos pneus e eles parecem estar mal calibrados.,Pneus,Desgaste irregular dos pneus,Baixo,333.61,10.5,Lateral Esquerda
+16,Os freios estão fazendo um barulho alto e não estão respondendo bem.,Freios,Problema no cilindro mestre,Baixo,3919.99,10.0,Traseira
+17,Há um cheiro de óleo queimado vindo do motor.,Motor,Falha na injeção eletrônica,Médio,1943.85,9.1,Superior
+18,As luzes do carro estão piscando e há dificuldade para ligar o veículo.,Elétrica,Alternador com defeito,Alto,3979.0,6.0,Lateral Direita
+19,O motor está superaquecendo e parece que há um vazamento no radiador.,Sistema de Arrefecimento,Mangueira do radiador rompida,Médio,2115.45,9.2,Inferior
+20,Há um cheiro de óleo queimado vindo do motor.,Motor,Problema na bomba de óleo,Alto,4374.01,3.1,Inferior
+21,O carro está apresentando falhas elétricas e o rádio está desligando sozinho.,Elétrica,Alternador com defeito,Médio,996.74,5.5,Lateral Esquerda
+22,Os freios estão fazendo um barulho alto e não estão respondendo bem.,Freios,Fusível queimado,Baixo,2554.28,8.6,Traseira
+23,O carro está esquentando demais e parece estar perdendo potência.,Motor,Problema na bomba de óleo,Médio,3678.54,4.7,Lateral Direita
+24,O motor está superaquecendo e parece que há um vazamento no radiador.,Sistema de Arrefecimento,Ventoinha não funcionando,Alto,3071.14,7.1,Lateral Esquerda
+25,Há um som de batida quando você dirige em estrada irregular.,Suspensão,Mola quebrada,Baixo,3537.05,9.0,Inferior
+26,Os freios estão vibrando e não estão funcionando corretamente.,Freios,Disco de freio empenado,Baixo,3536.32,10.1,Frontal
+27,A ventoinha do radiador não está ligando e o carro está aquecendo demais.,Sistema de Arrefecimento,Ventoinha não funcionando,Alto,526.18,7.1,Traseira
+28,Há um som de batida quando você dirige em estrada irregular.,Suspensão,Problema na bucha da suspensão,Alto,1321.26,10.8,Frontal
+29,Os freios estão vibrando e não estão funcionando corretamente.,Freios,Fusível queimado,Médio,2816.39,3.6,Superior
+30,O motor está superaquecendo e parece que há um vazamento no radiador.,Sistema de Arrefecimento,Nível baixo de líquido de arrefecimento,Alto,4671.53,8.8,Lateral Esquerda
+31,Há um barulho estranho ao mudar as marchas e o carro não está acelerando bem.,Transmissão,Dificuldade nas trocas de marcha,Alto,526.81,4.6,Lateral Esquerda
+32,Há um barulho estranho ao mudar as marchas e o carro não está acelerando bem.,Transmissão,Ruído ao trocar marcha,Alto,375.07,8.0,Superior
+33,O sistema de exaustão está fazendo um barulho alto e há um cheiro estranho.,Exaustão,Válvula de escape danificada,Alto,468.26,8.0,Superior
+34,O carro está balançando muito e fazendo barulho ao passar por buracos.,Suspensão,Mola quebrada,Médio,4140.25,1.5,Superior
+35,Há um som de batida quando você dirige em estrada irregular.,Suspensão,Desgaste das buchas,Médio,1775.72,1.4,Traseira
+36,A transmissão está trocando de marcha de forma brusca e com dificuldade.,Transmissão,Desgaste no sincronizador,Médio,2870.55,5.7,Lateral Direita
+37,A embreagem parece estar deslizando e a transmissão não está suave.,Transmissão,Dificuldade nas trocas de marcha,Alto,323.16,1.0,Lateral Esquerda
+38,Os pneus estão com rachaduras e precisam ser trocados.,Pneus,Desgaste irregular dos pneus,Baixo,3989.35,1.1,Frontal
+39,Os pneus estão com rachaduras e precisam ser trocados.,Pneus,Calibragem incorreta,Médio,2954.42,3.9,Traseira
+40,O sistema de arrefecimento não está funcionando e há um cheiro de líquido quente.,Sistema de Arrefecimento,Termostato com defeito,Alto,3488.86,4.5,Superior
+41,A suspensão parece estar mais dura do que o normal e o carro está desconfortável.,Suspensão,Mola quebrada,Alto,1354.01,3.7,Superior
+42,O sistema de arrefecimento não está funcionando e há um cheiro de líquido quente.,Sistema de Arrefecimento,Mangueira do radiador rompida,Médio,4836.2,4.7,Superior
+43,A embreagem parece estar deslizando e a transmissão não está suave.,Transmissão,Dificuldade nas trocas de marcha,Baixo,3802.44,10.3,Superior
+44,O sistema de arrefecimento não está funcionando e há um cheiro de líquido quente.,Sistema de Arrefecimento,Ventoinha não funcionando,Alto,1313.51,5.8,Frontal
+45,Os freios estão vibrando e não estão funcionando corretamente.,Freios,Disco de freio empenado,Alto,515.45,2.5,Inferior
+46,O carro está balançando muito e fazendo barulho ao passar por buracos.,Suspensão,Problema na bucha da suspensão,Alto,2469.7,9.3,Superior
+47,O carro está apresentando falhas elétricas e o rádio está desligando sozinho.,Elétrica,Bateria descarregada,Baixo,1002.19,2.2,Superior
+48,O carro está soltando fumaça e há um barulho incomum no sistema de escape.,Exaustão,Catalisador entupido,Alto,4843.9,2.9,Frontal
+49,O escape está vazando e parece estar obstruído.,Exaustão,Válvula de escape danificada,Baixo,4741.17,7.7,Superior
+50,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Fiação solta,Alto,4308.27,11.4,Superior
+51,O carro está soltando fumaça e há um barulho incomum no sistema de escape.,Exaustão,Barulho no sistema de escape,Alto,2303.61,1.1,Lateral Esquerda
+52,O escape está vazando e parece estar obstruído.,Exaustão,Válvula de escape danificada,Alto,3093.0,7.3,Traseira
+53,Os freios estão fazendo um barulho alto e não estão respondendo bem.,Freios,Desgaste de pastilhas,Alto,752.77,4.7,Traseira
+54,O carro está balançando muito e fazendo barulho ao passar por buracos.,Suspensão,Mola quebrada,Médio,3830.01,5.1,Frontal
+55,O motor está fazendo um barulho estranho e não parece estar funcionando bem.,Motor,Falha na injeção eletrônica,Baixo,1013.4,1.5,Frontal
+56,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Alternador com defeito,Baixo,3841.71,9.3,Lateral Esquerda
+57,Há um cheiro de queimado quando você pisa no freio.,Freios,Disco de freio empenado,Alto,2868.67,2.7,Inferior
+58,O carro está balançando muito e fazendo barulho ao passar por buracos.,Suspensão,Problema na bucha da suspensão,Médio,1459.4,10.9,Lateral Esquerda
+59,O carro está apresentando falhas elétricas e o rádio está desligando sozinho.,Elétrica,Bateria descarregada,Alto,1983.18,3.5,Inferior
+60,A transmissão está trocando de marcha de forma brusca e com dificuldade.,Transmissão,Problema na embreagem,Médio,4350.98,3.5,Frontal
+61,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Alternador com defeito,Alto,506.59,2.7,Superior
+62,A transmissão está trocando de marcha de forma brusca e com dificuldade.,Transmissão,Dificuldade nas trocas de marcha,Alto,4825.71,2.9,Superior
+63,Há um barulho de vibração vindo dos pneus e eles parecem estar mal calibrados.,Pneus,Calibragem incorreta,Médio,3194.3,1.5,Inferior
+64,A ventoinha do radiador não está ligando e o carro está aquecendo demais.,Sistema de Arrefecimento,Nível baixo de líquido de arrefecimento,Médio,1506.76,10.4,Superior
+65,A embreagem parece estar deslizando e a transmissão não está suave.,Transmissão,Dificuldade nas trocas de marcha,Médio,4323.92,5.4,Superior
+66,Há um barulho estranho ao mudar as marchas e o carro não está acelerando bem.,Transmissão,Desgaste no sincronizador,Alto,4409.37,5.6,Frontal
+67,A embreagem parece estar deslizando e a transmissão não está suave.,Transmissão,Dificuldade nas trocas de marcha,Baixo,4965.23,2.6,Frontal
+68,Há um barulho de vibração vindo dos pneus e eles parecem estar mal calibrados.,Pneus,Rachaduras no pneu,Alto,902.68,11.4,Inferior
+69,Há um cheiro de queimado quando você pisa no freio.,Freios,Mangueira do freio rachada,Médio,1014.09,5.2,Superior
+70,O carro está tremendo e os pneus parecem estar desgastados.,Pneus,Calibragem incorreta,Alto,2050.21,5.7,Superior
+71,A transmissão está trocando de marcha de forma brusca e com dificuldade.,Transmissão,Vazamento de fluido,Baixo,3176.78,1.7,Inferior
+72,O motor está superaquecendo e parece que há um vazamento no radiador.,Sistema de Arrefecimento,Nível baixo de líquido de arrefecimento,Médio,4599.71,7.6,Superior
+73,Há um barulho estranho ao mudar as marchas e o carro não está acelerando bem.,Transmissão,Ruído ao trocar marcha,Alto,3972.79,7.0,Lateral Direita
+74,As luzes do carro estão piscando e há dificuldade para ligar o veículo.,Elétrica,Bateria descarregada,Baixo,1265.13,1.1,Lateral Esquerda
+75,Há um som de batida quando você dirige em estrada irregular.,Suspensão,Amortecedor danificado,Médio,3474.68,8.3,Lateral Direita
+76,Os freios estão vibrando e não estão funcionando corretamente.,Freios,Desgaste de pastilhas,Alto,3406.98,7.6,Lateral Esquerda
+77,Os freios estão fazendo um barulho alto e não estão respondendo bem.,Freios,Fusível queimado,Alto,315.86,1.7,Inferior
+78,O carro está balançando muito e fazendo barulho ao passar por buracos.,Suspensão,Mola quebrada,Alto,768.59,5.5,Traseira
+79,O carro está apresentando falhas elétricas e o rádio está desligando sozinho.,Elétrica,Alternador com defeito,Médio,3350.83,1.8,Inferior
+80,O carro está soltando fumaça e há um barulho incomum no sistema de escape.,Exaustão,Catalisador entupido,Médio,1043.97,6.3,Traseira
+81,Os freios estão fazendo um barulho alto e não estão respondendo bem.,Freios,Disco de freio empenado,Alto,4008.22,4.7,Superior
+82,A embreagem parece estar deslizando e a transmissão não está suave.,Transmissão,Dificuldade nas trocas de marcha,Alto,520.62,1.4,Traseira
+83,As luzes do carro estão piscando e há dificuldade para ligar o veículo.,Elétrica,Bateria descarregada,Alto,2097.27,7.6,Lateral Direita
+84,Os pneus estão com rachaduras e precisam ser trocados.,Pneus,Calibragem incorreta,Alto,1564.84,7.2,Inferior
+85,Há um cheiro de queimado quando você pisa no freio.,Freios,Disco de freio empenado,Alto,4781.34,11.0,Lateral Esquerda
+86,O sistema de exaustão está fazendo um barulho alto e há um cheiro estranho.,Exaustão,Fumaça excessiva,Alto,1887.21,6.6,Lateral Esquerda
+87,O carro está tremendo e os pneus parecem estar desgastados.,Pneus,Desgaste irregular dos pneus,Médio,2771.91,5.7,Superior
+88,O escape está vazando e parece estar obstruído.,Exaustão,Válvula de escape danificada,Baixo,4229.96,1.4,Lateral Esquerda
+89,Há um cheiro de queimado quando você pisa no freio.,Freios,Disco de freio empenado,Alto,3346.91,8.8,Lateral Esquerda
+90,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Problema no módulo de controle,Alto,1310.94,10.3,Lateral Esquerda
+91,Há um cheiro de queimado quando você pisa no freio.,Freios,Problema no cilindro mestre,Alto,2322.07,9.1,Superior
+92,Os freios estão vibrando e não estão funcionando corretamente.,Freios,Disco de freio empenado,Alto,1380.41,7.0,Inferior
+93,Há um barulho de vibração vindo dos pneus e eles parecem estar mal calibrados.,Pneus,Rachaduras no pneu,Alto,4297.5,8.4,Traseira
+94,Há um barulho de vibração vindo dos pneus e eles parecem estar mal calibrados.,Pneus,Rachaduras no pneu,Alto,2180.67,8.6,Inferior
+95,A transmissão está trocando de marcha de forma brusca e com dificuldade.,Transmissão,Problema na embreagem,Médio,2186.28,7.7,Traseira
+96,Há um cheiro de queimado quando você pisa no freio.,Freios,Mangueira do freio rachada,Alto,1222.54,4.3,Frontal
+97,O motor está superaquecendo e parece que há um vazamento no radiador.,Sistema de Arrefecimento,Ventoinha não funcionando,Alto,3692.77,6.9,Traseira
+98,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Fiação solta,Médio,3068.25,9.5,Frontal
+99,Há um cheiro de queimado quando você pisa no freio.,Freios,Fusível queimado,Baixo,4454.09,6.0,Frontal
+100,O sistema elétrico está falhando e a bateria parece não carregar corretamente.,Elétrica,Alternador com defeito,Baixo,1394.96,8.7,Superior
